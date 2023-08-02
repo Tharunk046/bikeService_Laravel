@@ -7,6 +7,7 @@ Command to install node modules:
 **npm install**
 
 **Running the project:**
+
 Command for running the project:
 **php artisan serve**
 
@@ -28,7 +29,7 @@ In command prompt run **php artisan migrate**
 
 ![Untitled](https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/ea15b925-e08f-4869-b210-96d70fcc5661)
 
-**Sample data:**
+**Sample screenshot:**
 
 
 <img width="949" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/0a42ac87-fa63-412c-bc92-af23bda11938">
@@ -50,7 +51,6 @@ In command prompt run **php artisan migrate**
 <img width="960" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/9c4c3772-10b0-4396-ad2d-b053b57eff25">
 <img width="958" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/895d711a-fe77-4bf1-aa6b-b23ddef79a86">
 <img width="960" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/8db89848-693e-4afb-bcd4-269b341b42c7">
-![Uploading image.png…]()
 
 
 

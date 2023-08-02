@@ -1,0 +1,12 @@
+.index-heading{
+    text-align: center !important;
+}
+.booking-btn{
+    padding: 12px;
+    font-weight: 600;
+    width: fit-content;
+}
+span.badge.badge-info {
+    font-size: 12px;
+    margin-top: 5px;
+}

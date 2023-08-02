@@ -1,0 +1,17 @@
+.navbar{
+    padding: 12px;
+}
+.navbar-right-item{
+    margin-left: 100%;
+}
+li.nav-item {
+    font-size: 18px;
+}
+.main-content{
+    padding-top: 25px;
+}
+@media (max-width: 990px) {
+    .navbar-right-item {
+        margin-left: 0;
+    }
+}

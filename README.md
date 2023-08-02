@@ -49,8 +49,10 @@ In command prompt run **php artisan migrate**
 **client pages:**
 
 <img width="960" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/9c4c3772-10b0-4396-ad2d-b053b57eff25">
+<img width="939" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/54c4d54d-2786-44ac-80f5-50be0c56febd">
 <img width="958" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/895d711a-fe77-4bf1-aa6b-b23ddef79a86">
 <img width="960" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/8db89848-693e-4afb-bcd4-269b341b42c7">
+<img width="960" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/a95b9e43-412a-43c8-8681-a273aadd32e1">
 
 
 

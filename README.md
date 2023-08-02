@@ -1,7 +1,10 @@
 **Installation procedures:**
 
 Laravel installation command:
-**composer global require laravel/installer**
+**composer install**
+
+command for  creating env file
+**cp .env.example .env**
 
 Command to install node modules:
 **npm install**

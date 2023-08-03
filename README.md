@@ -1,5 +1,9 @@
 **Installation procedures:**
 
+**git clone https://github.com/Tharunk046/bikeService_CartRabbit.git**
+
+**cd bikeService_CartRabbit**
+
 Laravel installation command:
 **composer install**
 
@@ -56,5 +60,7 @@ In command prompt run **php artisan migrate**
 <img width="958" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/895d711a-fe77-4bf1-aa6b-b23ddef79a86">
 <img width="960" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/a95b9e43-412a-43c8-8681-a273aadd32e1">
 
-
+**mail**
+<img width="718" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/69c02aac-0bcf-4acc-b936-72da225f4eee">
+<img width="723" alt="image" src="https://github.com/Tharunk046/bikeService_CartRabbit/assets/86035594/f95fbb3f-3ebc-495c-8aee-80fee5d07564">
 

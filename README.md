@@ -1,8 +1,8 @@
 **Installation procedures:**
 
-**git clone https://github.com/Tharunk046/bikeService_CartRabbit.git**
+**git clone https://github.com/Tharunk046/bikeService_Laravel.git**
 
-**cd bikeService_CartRabbit**
+**cd bikeService_Laravel**
 
 Laravel installation command:
 **composer install**
